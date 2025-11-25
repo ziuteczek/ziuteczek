@@ -22,9 +22,10 @@ A modern, fast, and SEO-friendly personal website built to showcase my projects,
 A web app designed to help prepare for the Polish driving license theory exam.  
 
 - 🧠 **Backend:** Supabase + Google Cloud (media storage)  
-- 💻 **Frontend:** React (Vite) + Astro (landing page)  
-- 📚 Includes practice quizzes and lessons  
-- 🚧 Upcoming: **AI-powered assistance** and mock tests  
+- 💻 **Frontend:** React (Vite) + Bootstrap (Vite)
+- 📚 Includes practice quizzes and lessons
+- ⭐ **AI-powered** assistance
+- 🚧 Upcoming: Mock tests
 
 ---
 
