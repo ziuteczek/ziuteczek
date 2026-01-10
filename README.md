@@ -28,7 +28,7 @@ A web app designed to help prepare for the Polish driving license theory exam.
 
 ---
 
-### 🎮 [JINX IT!](https://github.com/ziuteczek/jinx-it)
+### [JINX IT!](https://github.com/ziuteczek/jinx-it)
 A fast-paced pixel-art game where you dodge waves of incoming missiles.  
 
 - Written in **C** using **SDL3**  
