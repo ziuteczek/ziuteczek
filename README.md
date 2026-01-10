@@ -6,7 +6,7 @@ I’m fluent in **TypeScript** with a **Node.js** and **React** accent — and I
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 ### [Portfolio Website](https://github.com/ziuteczek/portfolio)
 A modern, fast, and SEO-friendly personal website built to showcase my projects, experience, and interests.  
@@ -31,8 +31,8 @@ A web app designed to help prepare for the Polish driving license theory exam.
 ### 🎮 [JINX IT!](https://github.com/ziuteczek/jinx-it)
 A fast-paced pixel-art game where you dodge waves of incoming missiles.  
 
-- 💥 Written in **C** using **SDL3**  
-- 🎨 Custom pixel-art graphics  
-- ⚔️ Inspired by *Arcane* on Netflix  
+- Written in **C** using **SDL3**  
+- Custom pixel-art graphics  
+- Inspired by *Arcane* on Netflix  
 
 ---
