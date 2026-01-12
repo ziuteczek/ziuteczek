@@ -2,7 +2,7 @@
 
 Hi! I'm **Stanisław Dymny**, an 18-year-old programming enthusiast from **Szczecin, Poland**.  
 
-I’m fluent in **TypeScript** with a **Node.js** and **React** accent - and I also speak some **C/C++** with a touch of **SDL3**.
+I’m fluent in **TypeScript** with a **Node.js** and **React** accent and I also speak some **C/C++** with a touch of **SDL3**.
 
 ---
 
